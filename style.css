@@ -1,0 +1,33 @@
+html{
+    background-image: url("atoms.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    margin: auto;
+}
+body{
+    background-color: rgba(201, 201, 201, .6);
+    width: 60%;
+    margin:auto;
+    min-height: 50vh;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+h2{
+    display: block;
+    font-size: 40px;
+    margin: 0%;
+    text-align: auto;
+    margin: auto;
+}
+a{
+    margin: 20px;
+    color: black;
+    display: inline;
+}
+h1{
+    text-align: left;
+    
+}
